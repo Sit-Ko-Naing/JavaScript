@@ -95,4 +95,4 @@ var arr1 = [23,34];
 
 show(arr1[0],arr1[1]);
 
-show(arr1);
+show(arr1); /// read function comment !
